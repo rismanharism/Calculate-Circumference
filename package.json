@@ -1,0 +1,21 @@
+{
+  "name": "02",
+  "version": "1.0.0",
+  "description": "Memahami struktur alur program dengan algoritma dan pseudocode\r Dapat membuat algoritma dan pseudocode dari sebuah permasalahan kecil\r ## Directions\r Kamu diminta untuk membuat sebuah algoritma dan pseudocode untuk menghitung keliling sebuah lingkaran dimana hasil perhitungan akan ditampilkan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "reporters": [
+      "default",
+      "hacktiv8-reporter"
+    ]
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "hacktiv8-reporter": "^1.1.3"
+  }
+}
